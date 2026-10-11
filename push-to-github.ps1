@@ -10,7 +10,7 @@
            千万不要勾选 Add README / .gitignore / license —— 勾了会与本地冲突）
         2. 右键本文件 -> 使用 PowerShell 运行；或在本目录执行：
                powershell -ExecutionPolicy Bypass -File ".\push-to-github.ps1"
-        3. 按提示输入仓库名（默认 yunjuanshuyu）
+        3. 按提示输入仓库名（默认 cloudrest，与你在 GitHub 上建的一致）
 
     参数：
         -Repo     仓库名（默认 yunjuanshuyu）
@@ -19,7 +19,7 @@
 #>
 [CmdletBinding()]
 param(
-    [string]$Repo = 'yunjuanshuyu',
+    [string]$Repo = 'cloudrest',
     [string]$User = 'CSQ798',
     [switch]$Private
 )
