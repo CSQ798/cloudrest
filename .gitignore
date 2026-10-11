@@ -1,0 +1,25 @@
+﻿# 依赖与构建产物
+node_modules/
+dist-upload/
+.wrangler/
+.cloudflare/
+*.zip
+
+# 密钥与本地数据（绝不入库）
+.dev.vars
+.env
+.env.*
+.local-data/
+*.pem
+*.key
+credentials.json
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# 语料缓存（第三方页面，不进仓库；抽取脚本与结论在 .research/ 里）
+.research/html/
+.research/raw-*.json

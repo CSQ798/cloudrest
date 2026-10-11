@@ -1,0 +1,23 @@
+# 栖云 · Cloudflare 部署配置（**Pages** —— 默认走这条）
+#
+# 为什么默认是 Pages 而不是 Workers：
+#   实测（中国大陆，用户本机）：*.workers.dev 的 443 被阻断，连不上；
+#   而 *.pages.dev 可以正常访问。功能完全一样，区别只在域名能不能打开。
+#
+# 用法（就一条，不带任何 --config）：
+#   npx wrangler pages deploy public
+#
+# ⚠ 两个坑，都已经绕开了：
+#   1) wrangler 3 的 Pages 命令**不支持自定义配置文件路径**，
+#      只要给 Pages 命令加 --config（指向 wrangler-pages.toml 之类的名字），就会直接报
+#      「Pages does not support custom paths for the Wrangler configuration file」。
+#      所以 Pages 的配置必须放在**默认文件名 wrangler.toml** 里（就是本文件）。
+#   2) 如果本文件里缺 pages_build_output_dir，wrangler 会警告
+#      「missing the "pages_build_output_dir" field, required by Pages」并忽略配置。
+#      所以下面这一行不能删。
+#
+# Workers 的配置放在隔壁 wrangler.worker.toml（那边有 main 与 [assets]），
+# 要用 Workers 就：npx wrangler deploy --config wrangler.worker.toml
+name = "cloudrest"
+compatibility_date = "2024-11-06"
+pages_build_output_dir = "./public"

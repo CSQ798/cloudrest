@@ -1,0 +1,210 @@
+[
+  {
+    "name": "忆江南",
+    "hits": 174,
+    "modern": 174,
+    "stat": "，。，，。",
+    "mine": "，。，。。",
+    "same": false
+  },
+  {
+    "name": "如梦令",
+    "hits": 28,
+    "modern": 28,
+    "stat": "。。，。。。。",
+    "mine": "，。，。，，。",
+    "same": false
+  },
+  {
+    "name": "相见欢",
+    "hits": 29,
+    "modern": 8,
+    "stat": "，。，。，，。，。",
+    "mine": "，。，。，，。，。",
+    "same": true
+  },
+  {
+    "name": "生查子",
+    "hits": 21,
+    "modern": 21,
+    "stat": "，。，。，。，。",
+    "mine": "，。，。，。，。",
+    "same": true
+  },
+  {
+    "name": "点绛唇",
+    "hits": 30,
+    "modern": 30,
+    "stat": "，。。。，。。。。",
+    "mine": "，。，。，。，，。",
+    "same": false
+  },
+  {
+    "name": "浣溪沙",
+    "hits": 40,
+    "modern": 40,
+    "stat": "，，。，，。",
+    "mine": "，，。，，。",
+    "same": true
+  },
+  {
+    "name": "卜算子",
+    "hits": 28,
+    "modern": 28,
+    "stat": "，。，。，。，。",
+    "mine": "，。，。，。，。",
+    "same": true
+  },
+  {
+    "name": "菩萨蛮",
+    "hits": 31,
+    "modern": 16,
+    "stat": "，。，。，。，。",
+    "mine": "，。，。，。，。",
+    "same": true
+  },
+  {
+    "name": "清平乐",
+    "hits": 30,
+    "modern": 30,
+    "stat": "，。，。，。，。",
+    "mine": "，。，。，。，。",
+    "same": true
+  },
+  {
+    "name": "西江月",
+    "hits": 26,
+    "modern": 26,
+    "stat": "，。。。，。。。",
+    "mine": "，。，。，。，。",
+    "same": false
+  },
+  {
+    "name": "临江仙",
+    "hits": 2,
+    "modern": 2,
+    "stat": "，。，。，。，。",
+    "mine": "，。，。，。，。",
+    "same": true
+  },
+  {
+    "name": "鹧鸪天",
+    "hits": 33,
+    "modern": 33,
+    "stat": "，。，。，，。，。",
+    "mine": "，。，。，，。，。",
+    "same": true
+  },
+  {
+    "name": "玉楼春",
+    "hits": 29,
+    "modern": 29,
+    "stat": "，。，。，。，。",
+    "mine": "，。，。，。，。",
+    "same": true
+  },
+  {
+    "name": "虞美人",
+    "hits": 15,
+    "modern": 11,
+    "stat": "，。，、。，。，、。",
+    "mine": "，。，，。，。，，。",
+    "same": false
+  },
+  {
+    "name": "鹊桥仙",
+    "hits": 30,
+    "modern": 30,
+    "stat": "，，。，、。，，。，、。",
+    "mine": "，，。，、。，，。，、。",
+    "same": true
+  },
+  {
+    "name": "踏莎行",
+    "hits": 30,
+    "modern": 30,
+    "stat": "，。。，。，。。，。",
+    "mine": "，，。，。，，。，。",
+    "same": false
+  },
+  {
+    "name": "一剪梅",
+    "hits": 21,
+    "modern": 21,
+    "stat": "。，。。，。。，。。，。",
+    "mine": "。，。。，。。，。。，。",
+    "same": true
+  },
+  {
+    "name": "蝶恋花",
+    "hits": 28,
+    "modern": 28,
+    "stat": "。，。。。。，。。。",
+    "mine": "，，。，。，，。，。",
+    "same": false
+  },
+  {
+    "name": "定风波",
+    "hits": 29,
+    "modern": 9,
+    "stat": "，。，，。，，。，，。",
+    "mine": "，。，，。，，。，，。",
+    "same": true
+  },
+  {
+    "name": "渔家傲",
+    "hits": 62,
+    "modern": 5,
+    "stat": "，。，，。，。，，。",
+    "mine": "，。。，。，。。，。",
+    "same": false
+  },
+  {
+    "name": "青玉案",
+    "hits": 18,
+    "modern": 18,
+    "stat": "。、。。，，。。。。，，。",
+    "mine": "，、。。，，。，。。，，。",
+    "same": false
+  },
+  {
+    "name": "满江红",
+    "hits": 14,
+    "modern": 14,
+    "stat": "，、。、，。，。、，。，。，。，。，。、，。",
+    "mine": "，、。、，。，。、，。，。，。，。，。、，。",
+    "same": true
+  },
+  {
+    "name": "水调歌头",
+    "hits": 10,
+    "modern": 10,
+    "stat": "，。，。，，。，。，，。，。，，。，。",
+    "mine": "，。，。，，。，。，，。，。，，。，。",
+    "same": true
+  },
+  {
+    "name": "念奴娇",
+    "hits": 10,
+    "modern": 10,
+    "stat": "，，。，。，，。，。，，。，。，，。，。",
+    "mine": "，，。，。，，。，。，，。，。，，。，。",
+    "same": true
+  },
+  {
+    "name": "雨霖铃",
+    "hits": 4,
+    "modern": 4,
+    "stat": "。，。，，。，。、，。。、。，、。，，。、，。",
+    "mine": "，，。，，。，。，，。，，。。，。，，。，，。",
+    "same": false
+  },
+  {
+    "name": "沁园春",
+    "hits": 1,
+    "modern": 1,
+    "stat": "，，。，，，。，，。，，。。、。，，，。，，。，，。",
+    "mine": "，，。，，，。，，。，，。，，。，，，。，，。，，。",
+    "same": false
+  }
+]

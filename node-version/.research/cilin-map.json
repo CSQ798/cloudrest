@@ -1,0 +1,1037 @@
+[
+ {
+  "bu": 1,
+  "sheng": "平",
+  "siteName": "一东",
+  "half": false,
+  "match": "一东",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 1,
+  "sheng": "平",
+  "siteName": "二冬",
+  "half": false,
+  "match": "二冬",
+  "ratio": 0.9807692307692307,
+  "nameMatch": true
+ },
+ {
+  "bu": 1,
+  "sheng": "上",
+  "siteName": "一董",
+  "half": false,
+  "match": "一董",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 1,
+  "sheng": "上",
+  "siteName": "二肿",
+  "half": false,
+  "match": "二肿",
+  "ratio": 0.96,
+  "nameMatch": true
+ },
+ {
+  "bu": 1,
+  "sheng": "去",
+  "siteName": "一送",
+  "half": false,
+  "match": "一送",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 1,
+  "sheng": "去",
+  "siteName": "二宋",
+  "half": false,
+  "match": "二宋",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 2,
+  "sheng": "平",
+  "siteName": "三江",
+  "half": false,
+  "match": "三江",
+  "ratio": 0.9411764705882353,
+  "nameMatch": true
+ },
+ {
+  "bu": 2,
+  "sheng": "平",
+  "siteName": "七阳",
+  "half": false,
+  "match": "七阳",
+  "ratio": 0.9826589595375722,
+  "nameMatch": true
+ },
+ {
+  "bu": 2,
+  "sheng": "上",
+  "siteName": "三讲",
+  "half": false,
+  "match": "三讲",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 2,
+  "sheng": "上",
+  "siteName": "二十二养",
+  "half": false,
+  "match": "二十二养",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 2,
+  "sheng": "去",
+  "siteName": "三绛",
+  "half": false,
+  "match": "三绛",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 2,
+  "sheng": "去",
+  "siteName": "二十三漾",
+  "half": false,
+  "match": "二十三漾",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 3,
+  "sheng": "平",
+  "siteName": "四支",
+  "half": false,
+  "match": "四支",
+  "ratio": 0.972972972972973,
+  "nameMatch": true
+ },
+ {
+  "bu": 3,
+  "sheng": "平",
+  "siteName": "五微",
+  "half": false,
+  "match": "五微",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 3,
+  "sheng": "平",
+  "siteName": "八齐",
+  "half": false,
+  "match": "八齐",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 3,
+  "sheng": "平",
+  "siteName": "十灰",
+  "half": true,
+  "match": "十灰",
+  "ratio": 0.9230769230769231,
+  "nameMatch": true
+ },
+ {
+  "bu": 3,
+  "sheng": "上",
+  "siteName": "四纸",
+  "half": false,
+  "match": "四纸",
+  "ratio": 0.9821428571428571,
+  "nameMatch": true
+ },
+ {
+  "bu": 3,
+  "sheng": "上",
+  "siteName": "五尾",
+  "half": false,
+  "match": "五尾",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 3,
+  "sheng": "上",
+  "siteName": "八荠",
+  "half": false,
+  "match": "八荠",
+  "ratio": 0.92,
+  "nameMatch": true
+ },
+ {
+  "bu": 3,
+  "sheng": "上",
+  "siteName": "十贿",
+  "half": true,
+  "match": "十贿",
+  "ratio": 0.9285714285714286,
+  "nameMatch": true
+ },
+ {
+  "bu": 3,
+  "sheng": "去",
+  "siteName": "四寘",
+  "half": false,
+  "match": "四寘",
+  "ratio": 0.96,
+  "nameMatch": true
+ },
+ {
+  "bu": 3,
+  "sheng": "去",
+  "siteName": "五未",
+  "half": false,
+  "match": "五未",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 3,
+  "sheng": "去",
+  "siteName": "八霁",
+  "half": false,
+  "match": "八霁",
+  "ratio": 0.9795918367346939,
+  "nameMatch": true
+ },
+ {
+  "bu": 3,
+  "sheng": "去",
+  "siteName": "九泰",
+  "half": true,
+  "match": "九泰",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 3,
+  "sheng": "去",
+  "siteName": "十一队",
+  "half": true,
+  "match": "十一队",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 4,
+  "sheng": "平",
+  "siteName": "六鱼",
+  "half": false,
+  "match": "六鱼",
+  "ratio": 0.9821428571428571,
+  "nameMatch": true
+ },
+ {
+  "bu": 4,
+  "sheng": "平",
+  "siteName": "七虞",
+  "half": false,
+  "match": "七虞",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 4,
+  "sheng": "上",
+  "siteName": "六语",
+  "half": false,
+  "match": "六语",
+  "ratio": 0.96,
+  "nameMatch": true
+ },
+ {
+  "bu": 4,
+  "sheng": "上",
+  "siteName": "七虞",
+  "half": false,
+  "match": "七麌",
+  "ratio": 0.9611650485436893,
+  "nameMatch": false
+ },
+ {
+  "bu": 4,
+  "sheng": "去",
+  "siteName": "六御",
+  "half": false,
+  "match": "六御",
+  "ratio": 0.9666666666666667,
+  "nameMatch": true
+ },
+ {
+  "bu": 4,
+  "sheng": "去",
+  "siteName": "七麌",
+  "half": false,
+  "match": "七遇",
+  "ratio": 0.9690721649484536,
+  "nameMatch": false
+ },
+ {
+  "bu": 5,
+  "sheng": "平",
+  "siteName": "九佳",
+  "half": true,
+  "match": "九佳",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 5,
+  "sheng": "平",
+  "siteName": "十灰",
+  "half": true,
+  "match": "十灰",
+  "ratio": 0.9629629629629629,
+  "nameMatch": true
+ },
+ {
+  "bu": 5,
+  "sheng": "上",
+  "siteName": "九蟹",
+  "half": false,
+  "match": "九蟹",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 5,
+  "sheng": "上",
+  "siteName": "十贿",
+  "half": true,
+  "match": "十贿",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 5,
+  "sheng": "去",
+  "siteName": "九泰",
+  "half": true,
+  "match": "九泰",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 5,
+  "sheng": "去",
+  "siteName": "十卦",
+  "half": true,
+  "match": "十卦",
+  "ratio": 0.9705882352941176,
+  "nameMatch": true
+ },
+ {
+  "bu": 5,
+  "sheng": "去",
+  "siteName": "十一队",
+  "half": true,
+  "match": "十一队",
+  "ratio": 0.9655172413793104,
+  "nameMatch": true
+ },
+ {
+  "bu": 6,
+  "sheng": "平",
+  "siteName": "十一真",
+  "half": false,
+  "match": "十一真",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 6,
+  "sheng": "平",
+  "siteName": "十二文",
+  "half": false,
+  "match": "十二文",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 6,
+  "sheng": "平",
+  "siteName": "十三元",
+  "half": true,
+  "match": "十三元",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 6,
+  "sheng": "上",
+  "siteName": "十一轸",
+  "half": false,
+  "match": "十一轸",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 6,
+  "sheng": "上",
+  "siteName": "十二吻",
+  "half": false,
+  "match": "十二吻",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 6,
+  "sheng": "上",
+  "siteName": "十三阮",
+  "half": true,
+  "match": "十三阮",
+  "ratio": 0.9523809523809523,
+  "nameMatch": true
+ },
+ {
+  "bu": 6,
+  "sheng": "去",
+  "siteName": "十二震",
+  "half": false,
+  "match": "十二震",
+  "ratio": 0.9782608695652174,
+  "nameMatch": true
+ },
+ {
+  "bu": 6,
+  "sheng": "去",
+  "siteName": "十三问",
+  "half": false,
+  "match": "十三问",
+  "ratio": 0.9473684210526315,
+  "nameMatch": true
+ },
+ {
+  "bu": 6,
+  "sheng": "去",
+  "siteName": "十四愿",
+  "half": true,
+  "match": "十四愿",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 7,
+  "sheng": "平",
+  "siteName": "十三元",
+  "half": true,
+  "match": "十三元",
+  "ratio": 0.9444444444444444,
+  "nameMatch": true
+ },
+ {
+  "bu": 7,
+  "sheng": "平",
+  "siteName": "十四寒",
+  "half": false,
+  "match": "十四寒",
+  "ratio": 0.9743589743589743,
+  "nameMatch": true
+ },
+ {
+  "bu": 7,
+  "sheng": "平",
+  "siteName": "十五删",
+  "half": false,
+  "match": "十五删",
+  "ratio": 0.9736842105263158,
+  "nameMatch": true
+ },
+ {
+  "bu": 7,
+  "sheng": "平",
+  "siteName": "一先",
+  "half": false,
+  "match": "一先",
+  "ratio": 0.9767441860465116,
+  "nameMatch": true
+ },
+ {
+  "bu": 7,
+  "sheng": "上",
+  "siteName": "十三阮",
+  "half": true,
+  "match": "十三阮",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 7,
+  "sheng": "上",
+  "siteName": "十四旱",
+  "half": false,
+  "match": "十四旱",
+  "ratio": 0.8181818181818182,
+  "nameMatch": true
+ },
+ {
+  "bu": 7,
+  "sheng": "上",
+  "siteName": "十五潸",
+  "half": false,
+  "match": "十五潸",
+  "ratio": 0.8095238095238095,
+  "nameMatch": true
+ },
+ {
+  "bu": 7,
+  "sheng": "上",
+  "siteName": "十六铣",
+  "half": false,
+  "match": "十六铣",
+  "ratio": 0.8947368421052632,
+  "nameMatch": true
+ },
+ {
+  "bu": 7,
+  "sheng": "去",
+  "siteName": "十四愿",
+  "half": true,
+  "match": "十四愿",
+  "ratio": 0.8571428571428571,
+  "nameMatch": true
+ },
+ {
+  "bu": 7,
+  "sheng": "去",
+  "siteName": "十五翰",
+  "half": false,
+  "match": "十五翰",
+  "ratio": 0.9682539682539683,
+  "nameMatch": true
+ },
+ {
+  "bu": 7,
+  "sheng": "去",
+  "siteName": "十六谏",
+  "half": false,
+  "match": "十六谏",
+  "ratio": 0.9615384615384616,
+  "nameMatch": true
+ },
+ {
+  "bu": 7,
+  "sheng": "去",
+  "siteName": "十七霰",
+  "half": false,
+  "match": "十七霰",
+  "ratio": 0.9493670886075949,
+  "nameMatch": true
+ },
+ {
+  "bu": 8,
+  "sheng": "平",
+  "siteName": "二萧",
+  "half": false,
+  "match": "二萧",
+  "ratio": 0.98,
+  "nameMatch": true
+ },
+ {
+  "bu": 8,
+  "sheng": "平",
+  "siteName": "三肴",
+  "half": false,
+  "match": "三肴",
+  "ratio": 0.975609756097561,
+  "nameMatch": true
+ },
+ {
+  "bu": 8,
+  "sheng": "平",
+  "siteName": "四豪",
+  "half": false,
+  "match": "四豪",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 8,
+  "sheng": "上",
+  "siteName": "十七筱",
+  "half": false,
+  "match": "十七筱",
+  "ratio": 0.9090909090909091,
+  "nameMatch": true
+ },
+ {
+  "bu": 8,
+  "sheng": "上",
+  "siteName": "十八巧",
+  "half": false,
+  "match": "十八巧",
+  "ratio": 0.9444444444444444,
+  "nameMatch": true
+ },
+ {
+  "bu": 8,
+  "sheng": "上",
+  "siteName": "十九皓",
+  "half": false,
+  "match": "十九皓",
+  "ratio": 0.9791666666666666,
+  "nameMatch": true
+ },
+ {
+  "bu": 8,
+  "sheng": "去",
+  "siteName": "十八啸",
+  "half": false,
+  "match": "十八啸",
+  "ratio": 0.9555555555555556,
+  "nameMatch": true
+ },
+ {
+  "bu": 8,
+  "sheng": "去",
+  "siteName": "十九效",
+  "half": false,
+  "match": "十九效",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 8,
+  "sheng": "去",
+  "siteName": "二十号",
+  "half": false,
+  "match": "二十号",
+  "ratio": 0.9411764705882353,
+  "nameMatch": true
+ },
+ {
+  "bu": 9,
+  "sheng": "平",
+  "siteName": "五歌",
+  "half": false,
+  "match": "五歌",
+  "ratio": 0.9864864864864865,
+  "nameMatch": true
+ },
+ {
+  "bu": 9,
+  "sheng": "上",
+  "siteName": "二十岢",
+  "half": false,
+  "match": "二十哿",
+  "ratio": 0.95,
+  "nameMatch": false
+ },
+ {
+  "bu": 9,
+  "sheng": "去",
+  "siteName": "二十一个",
+  "half": false,
+  "match": "二十一个",
+  "ratio": 0.9310344827586207,
+  "nameMatch": true
+ },
+ {
+  "bu": 10,
+  "sheng": "平",
+  "siteName": "九佳",
+  "half": true,
+  "match": "九佳",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 10,
+  "sheng": "平",
+  "siteName": "六麻",
+  "half": false,
+  "match": "六麻",
+  "ratio": 0.96,
+  "nameMatch": true
+ },
+ {
+  "bu": 10,
+  "sheng": "上",
+  "siteName": "二十一马",
+  "half": false,
+  "match": "二十一马",
+  "ratio": 0.9666666666666667,
+  "nameMatch": true
+ },
+ {
+  "bu": 10,
+  "sheng": "去",
+  "siteName": "十卦",
+  "half": true,
+  "match": "十卦",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 10,
+  "sheng": "去",
+  "siteName": "二十二祃",
+  "half": false,
+  "match": "二十二祃",
+  "ratio": 0.9622641509433962,
+  "nameMatch": true
+ },
+ {
+  "bu": 11,
+  "sheng": "平",
+  "siteName": "八庚",
+  "half": false,
+  "match": "八庚",
+  "ratio": 0.9916666666666667,
+  "nameMatch": true
+ },
+ {
+  "bu": 11,
+  "sheng": "平",
+  "siteName": "九青",
+  "half": false,
+  "match": "九青",
+  "ratio": 0.9682539682539683,
+  "nameMatch": true
+ },
+ {
+  "bu": 11,
+  "sheng": "平",
+  "siteName": "十蒸",
+  "half": false,
+  "match": "十蒸",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 11,
+  "sheng": "上",
+  "siteName": "二十三梗",
+  "half": false,
+  "match": "二十三梗",
+  "ratio": 0.9411764705882353,
+  "nameMatch": true
+ },
+ {
+  "bu": 11,
+  "sheng": "上",
+  "siteName": "二十四迥",
+  "half": false,
+  "match": "二十四迥",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 11,
+  "sheng": "去",
+  "siteName": "二十四敬",
+  "half": false,
+  "match": "二十四敬",
+  "ratio": 0.9736842105263158,
+  "nameMatch": true
+ },
+ {
+  "bu": 11,
+  "sheng": "去",
+  "siteName": "二十五径",
+  "half": false,
+  "match": "二十五径",
+  "ratio": 0.8974358974358975,
+  "nameMatch": true
+ },
+ {
+  "bu": 12,
+  "sheng": "平",
+  "siteName": "十一尤",
+  "half": false,
+  "match": "十一尤",
+  "ratio": 0.9915966386554622,
+  "nameMatch": true
+ },
+ {
+  "bu": 12,
+  "sheng": "上",
+  "siteName": "二十五有",
+  "half": false,
+  "match": "二十五有",
+  "ratio": 0.9871794871794872,
+  "nameMatch": true
+ },
+ {
+  "bu": 12,
+  "sheng": "去",
+  "siteName": "二十六宥",
+  "half": false,
+  "match": "二十六宥",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 13,
+  "sheng": "平",
+  "siteName": "十二侵",
+  "half": false,
+  "match": "十二侵",
+  "ratio": 0.98,
+  "nameMatch": true
+ },
+ {
+  "bu": 13,
+  "sheng": "上",
+  "siteName": "二十六寝",
+  "half": false,
+  "match": "二十六寝",
+  "ratio": 0.9583333333333334,
+  "nameMatch": true
+ },
+ {
+  "bu": 13,
+  "sheng": "去",
+  "siteName": "二十七沁",
+  "half": false,
+  "match": "二十七沁",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 14,
+  "sheng": "平",
+  "siteName": "十三覃",
+  "half": false,
+  "match": "十三覃",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 14,
+  "sheng": "平",
+  "siteName": "十四盐",
+  "half": false,
+  "match": "十四盐",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 14,
+  "sheng": "平",
+  "siteName": "十五咸",
+  "half": false,
+  "match": "十五咸",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 14,
+  "sheng": "上",
+  "siteName": "二十七感",
+  "half": false,
+  "match": "二十七感",
+  "ratio": 0.9545454545454546,
+  "nameMatch": true
+ },
+ {
+  "bu": 14,
+  "sheng": "上",
+  "siteName": "二十八俭",
+  "half": false,
+  "match": "二十八琰",
+  "ratio": 0.9032258064516129,
+  "nameMatch": false
+ },
+ {
+  "bu": 14,
+  "sheng": "上",
+  "siteName": "二十九豏",
+  "half": false,
+  "match": "二十九豏",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 14,
+  "sheng": "去",
+  "siteName": "二十八勘",
+  "half": false,
+  "match": "二十八勘",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 14,
+  "sheng": "去",
+  "siteName": "二十九艳",
+  "half": false,
+  "match": "二十九艳",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 14,
+  "sheng": "去",
+  "siteName": "三十陷",
+  "half": false,
+  "match": "三十陷",
+  "ratio": 0.9,
+  "nameMatch": true
+ },
+ {
+  "bu": 15,
+  "sheng": "入",
+  "siteName": "一屋",
+  "half": false,
+  "match": "一屋",
+  "ratio": 0.9494949494949495,
+  "nameMatch": true
+ },
+ {
+  "bu": 15,
+  "sheng": "入",
+  "siteName": "二沃",
+  "half": false,
+  "match": "二沃",
+  "ratio": 0.95,
+  "nameMatch": true
+ },
+ {
+  "bu": 16,
+  "sheng": "入",
+  "siteName": "三觉",
+  "half": false,
+  "match": "三觉",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 16,
+  "sheng": "入",
+  "siteName": "十药",
+  "half": false,
+  "match": "十药",
+  "ratio": 0.9903846153846154,
+  "nameMatch": true
+ },
+ {
+  "bu": 17,
+  "sheng": "入",
+  "siteName": "四质",
+  "half": false,
+  "match": "四质",
+  "ratio": 0.9420289855072463,
+  "nameMatch": true
+ },
+ {
+  "bu": 17,
+  "sheng": "入",
+  "siteName": "十一陌",
+  "half": false,
+  "match": "十一陌",
+  "ratio": 0.9827586206896551,
+  "nameMatch": true
+ },
+ {
+  "bu": 17,
+  "sheng": "入",
+  "siteName": "十二锡",
+  "half": false,
+  "match": "十二锡",
+  "ratio": 0.9433962264150944,
+  "nameMatch": true
+ },
+ {
+  "bu": 17,
+  "sheng": "入",
+  "siteName": "十三职",
+  "half": false,
+  "match": "十三职",
+  "ratio": 0.9852941176470589,
+  "nameMatch": true
+ },
+ {
+  "bu": 17,
+  "sheng": "入",
+  "siteName": "十四缉",
+  "half": false,
+  "match": "十四缉",
+  "ratio": 1,
+  "nameMatch": true
+ },
+ {
+  "bu": 18,
+  "sheng": "入",
+  "siteName": "五物",
+  "half": false,
+  "match": "五物",
+  "ratio": 0.9285714285714286,
+  "nameMatch": true
+ },
+ {
+  "bu": 18,
+  "sheng": "入",
+  "siteName": "六月",
+  "half": false,
+  "match": "六月",
+  "ratio": 0.9803921568627451,
+  "nameMatch": true
+ },
+ {
+  "bu": 18,
+  "sheng": "入",
+  "siteName": "七曷",
+  "half": false,
+  "match": "七曷",
+  "ratio": 0.9230769230769231,
+  "nameMatch": true
+ },
+ {
+  "bu": 18,
+  "sheng": "入",
+  "siteName": "八黠",
+  "half": false,
+  "match": "八黠",
+  "ratio": 0.96,
+  "nameMatch": true
+ },
+ {
+  "bu": 18,
+  "sheng": "入",
+  "siteName": "九屑",
+  "half": false,
+  "match": "九屑",
+  "ratio": 0.9767441860465116,
+  "nameMatch": true
+ },
+ {
+  "bu": 18,
+  "sheng": "入",
+  "siteName": "十六叶",
+  "half": false,
+  "match": "十六叶",
+  "ratio": 0.9787234042553191,
+  "nameMatch": true
+ },
+ {
+  "bu": 19,
+  "sheng": "入",
+  "siteName": "十五合",
+  "half": false,
+  "match": "十五合",
+  "ratio": 0.9696969696969697,
+  "nameMatch": true
+ },
+ {
+  "bu": 19,
+  "sheng": "入",
+  "siteName": "十七洽",
+  "half": false,
+  "match": "十七洽",
+  "ratio": 0.9354838709677419,
+  "nameMatch": true
+ }
+]

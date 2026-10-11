@@ -1,0 +1,30 @@
+# 栖云 · Cloudflare **Workers** 部署配置（备用路线）
+#
+# 默认的 wrangler.toml 是给 Pages 用的（pages.dev 在大陆能打开），
+# 这份是给 Workers 用的。它**不是**默认文件名，所以必须显式指定：
+#
+#   npx wrangler deploy --config wrangler.worker.toml
+#   npx wrangler secret put DEEPSEEK_API_KEY          # Secret 按 name 存，两条路线各存一份
+#
+# 部署后地址形如 https://cloudrest.<你的子域>.workers.dev
+# 但 *大陆网络下这个域名通常连不上*（DNS 能解析、443 被阻断），
+# 打不开 ≠ 部署失败：deploy 走的是 api.cloudflare.com，那是通的。
+name = "cloudrest"
+main = "worker.mjs"
+compatibility_date = "2024-11-06"
+
+# 静态资源（index.html / style.css / app.js）由 assets 绑定直接托管，
+# 同一个域名下 /api/* 由 worker.mjs 处理 —— 这是静态站 + 后端能同时工作的关键。
+[assets]
+directory = "./public"
+binding = "ASSETS"
+# 让请求先经过 Worker：Worker 内部只接管 /api/*，其余交给 ASSETS 绑定读静态文件。
+#
+# 这里必须是布尔值 true，不能写成 ["/api/*"]：
+#   按路径过滤的数组写法是 wrangler 4 才支持的，wrangler 3 会报
+#   「Expected "assets.run_worker_first" to be of type boolean」。
+#   写成 true 则 wrangler 3 与 4 都能用，不必为了部署去升级工具。
+run_worker_first = true
+
+[observability]
+enabled = true

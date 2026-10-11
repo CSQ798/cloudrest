@@ -1,0 +1,5 @@
+# 本地开发用（wrangler dev 会读这个文件）
+# 这个文件**不含**真实密钥时也可跑页面，但写不了诗。
+# 部署到 Cloudflare 时**不要**用这个文件，而要用：
+#   npx wrangler secret put DEEPSEEK_API_KEY
+DEEPSEEK_API_KEY=在这里填你的密钥

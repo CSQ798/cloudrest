@@ -1,0 +1,14 @@
+{
+  "name": "qiyun",
+  "version": "1.0.0",
+  "private": true,
+  "description": "栖云 —— 把你的场景，写成一首诗",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

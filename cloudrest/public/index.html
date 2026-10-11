@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>云卷云舒 · 把你的场景，写成一首诗</title>
+<meta name="description" content="写下一段场景，云卷云舒为它择体、成诗，并说明自己的取景与修辞。" />
+<meta name="theme-color" content="#050506" />
+<link rel="preconnect" href="https://rsms.me/" />
+<link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
+<link rel="stylesheet" href="/style.css" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3Crect%20width='32'%20height='32'%20rx='8'%20fill='%233d7ff0'/%3E%3Ctext%20x='16'%20y='23'%20font-size='19'%20text-anchor='middle'%20fill='%23EDEDEF'%20font-family='serif'%3E%E4%BA%91%3C/text%3E%3C/svg%3E" />
+</head>
+<body>
+<!-- 背景是四层叠出来的：底色径向渐变 + 噪点 + 三个缓慢漂浮的光斑 + 64px 网格。
+     全部 pointer-events:none，且压在内容层下面（z-index:0）——
+     上一版那个「小启」点不动，就是因为内容层有 z-index 而页脚没有，
+     绝对定位的标签被压到了底下。这一版把栈序统一交给 .bg 与 body>* 处理。 -->
+<div class="bg" aria-hidden="true">
+  <div class="bg-base"></div>
+  <div class="bg-grid"></div>
+  <div class="bg-noise"></div>
+  <div class="blob blob-1"></div>
+  <div class="blob blob-2"></div>
+  <div class="blob blob-3"></div>
+  <div class="blob blob-4"></div>
+</div>
+
+<header class="topbar">
+  <span class="brand-ink">云卷云舒</span>
+  <span class="brand-sub">写下你的场景，它自己挑体裁</span>
+  <span class="status" id="status"></span>
+</header>
+
+<!-- 题记。站名就出自这一联，所以放在最上游、压着整页：
+     「望天上云卷云舒」既是 slogan，也是这个名字的来历。 -->
+<p class="motto">
+  宠辱不惊，看庭前花开花落<span class="motto-sep">；</span>去留无意，望天上云卷云舒
+</p>
+
+<!-- 账号与密钥工具栏：登录状态、剩余次数、密钥、小启，都在这一条上 -->
+<div class="toolbar" id="toolbar">
+  <div class="tb-left">
+    <span class="tb-user" id="tbUser">未登录</span>
+    <span class="tb-quota" id="tbQuota"></span>
+  </div>
+  <div class="tb-right">
+    <a class="tb-btn" id="tbLogin" href="/account.html">登录 / 注册</a>
+    <button class="tb-btn" id="tbLogout" type="button" hidden>退出</button>
+    <label class="sr-only" for="tbKey">密钥</label>
+    <input class="tb-key" id="tbKey" type="password" maxlength="64" placeholder="密钥" autocomplete="off" spellcheck="false" />
+    <button class="tb-btn" id="tbKeyGo" type="button">应用</button>
+    <!-- 想要一直用下去的人，从这里进 -->
+    <a class="tb-btn pill" id="tbAsk" href="/account.html#ask">小启</a>
+  </div>
+</div>
+
+<main class="desk">
+  <!-- 左：思考与赏析 -->
+  <section class="col col-left" data-spot>
+    <h2 class="col-title"><span class="idx">01</span>思致 · 取景与修辞</h2>
+    <div class="col-body" id="mind">
+      <p class="empty">诗成之后，这里会写下：它从你的场景里取到了哪一刻、用了什么典故与修辞，以及一篇自评。</p>
+    </div>
+  </section>
+
+  <!-- 中：场景与诗 -->
+  <section class="col col-center">
+    <div class="poem-wrap" id="poemWrap" hidden>
+      <article class="poem" id="poem" data-spot>
+        <p class="poem-scene"></p>
+        <h1 class="poem-title"></h1>
+        <div class="poem-body"></div>
+        <span class="seal" aria-hidden="true">云卷<br />云舒</span>
+      </article>
+      <div class="verdict" id="verdict"></div>
+      <div class="actions" id="actions" hidden>
+        <button id="copy" type="button">抄一份</button>
+        <button id="again" type="button">重写一遍</button>
+        <button id="save" type="button">存为纸笺</button>
+      </div>
+      <div id="toast" class="toast" role="status"></div>
+    </div>
+
+    <div class="composer" data-spot>
+      <label class="sr-only" for="scene">场景</label>
+      <textarea id="scene" rows="3" maxlength="1000" placeholder="比如：夏末傍晚，祖母在灶前煮面，我在门边看她弯腰。"></textarea>
+      <div class="controls">
+        <span class="form-note" id="formNote">体裁：待它自选</span>
+        <button id="clearForm" class="link-btn" type="button" hidden>清除指定</button>
+        <button id="compose" class="compose" type="button">落笔</button>
+      </div>
+      <p class="hint" id="hint">一两句就够，写具体的人与物。</p>
+    </div>
+  </section>
+
+  <!-- 右：要求与润色 -->
+  <section class="col col-right" data-spot>
+    <h2 class="col-title"><span class="idx">02</span>遣意 · 你的要求</h2>
+    <div class="col-body">
+      <p class="tip">可以什么都不写——它会自己挑体裁。也可以直接点下面的词牌指定；成诗之后，再在这里提要求，它会照你的话改。</p>
+
+      <label class="sr-only" for="wish">要求</label>
+      <textarea id="wish" rows="4" maxlength="400" placeholder="比如：写得再冷一些；换《浣溪沙》；不要写离别；把重点放在那盏灯上。"></textarea>
+
+      <div class="quick">
+        <span class="quick-label">借谁的笔法（可不选）</span>
+        <div class="forms poets" id="poets"></div>
+        <p class="hint2" id="poetNote">选了诗人，它就用那位的眼睛与句法写你眼前的场景——但绝不套用其成句。</p>
+      </div>
+
+      <div class="quick">
+        <span class="quick-label">点选体裁</span>
+        <div class="forms" id="forms"></div>
+      </div>
+
+      <div class="own-form">
+        <label class="quick-label" for="ownForm">或自己填词牌</label>
+        <input id="ownForm" type="text" maxlength="12" placeholder="如水调歌头、减字木兰花" autocomplete="off" spellcheck="false" />
+        <p class="hint2" id="ownFormNote"></p>
+      </div>
+
+      <button id="refine" class="refine" type="button" disabled>照此润色</button>
+      <p class="hint2" id="hint2"></p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <p class="foot-main">
+    <span>诗由 AI 依景而作，非古人所作；格律据《钦定词谱》《平水韵》逐字校过。</span>
+    <span class="foot-meta">云卷云舒 © 2026</span>
+  </p>
+</footer>
+
+<script src="/fx.js" type="module"></script>
+<script src="/account.js" type="module"></script>
+<script src="/app.js" type="module"></script>
+</body>
+</html>

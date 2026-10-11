@@ -1,0 +1,42 @@
+{
+  "name": "cloudrest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "云卷云舒 —— 写下你的场景，它自己挑体裁（Cloudflare Pages / Workers 版）",
+  "type": "module",
+  "scripts": {
+    "check": "node doctor.mjs",
+    "doctor": "node doctor.mjs",
+    "serve": "node .test/serve-local.mjs",
+    "net-check": "node .test/net-check.mjs",
+    "build:dashboard": "node build-dashboard.mjs",
+    "test": "node .test/worker-test.mjs",
+    "test:pages": "node .test/pages-test.mjs",
+    "test:dashboard": "node .test/dashboard-worker-test.mjs",
+    "test:script": "node .test/script-test.mjs",
+    "test:bundle": "node .test/bundle-safety-test.mjs",
+    "test:account": "node .test/account-test.mjs",
+    "test:schema": "node .test/schema-test.mjs",
+    "test:structure": "node .test/structure-test.mjs",
+    "test:tunes": "node .test/tune-marks-test.mjs",
+    "test:craft": "node .test/craft-test.mjs",
+    "test:card": "node .test/card-test.mjs && node .test/card-layout-test.mjs",
+    "test:layout": "node .test/verify-layout.mjs",
+    "test:e2e": "node .test/e2e-accounts.mjs",
+    "test:all": "node .test/bundle-safety-test.mjs && node .test/structure-test.mjs && node .test/tune-marks-test.mjs && node .test/craft-test.mjs && node .test/card-test.mjs && node .test/card-layout-test.mjs && node .test/card-run-test.mjs && node .test/script-test.mjs && node .test/schema-test.mjs && node .test/account-test.mjs && node .test/worker-test.mjs && node .test/pages-test.mjs && node build-dashboard.mjs && node .test/dashboard-worker-test.mjs",
+    "verify": "node .test/verify-live.mjs",
+
+    "pages:create": "wrangler pages project create cloudrest",
+    "pages:deploy": "wrangler pages deploy public",
+    "pages:secret": "wrangler pages secret put DEEPSEEK_API_KEY --project-name cloudrest",
+    "pages:dev": "wrangler pages dev public",
+    "pages:tail": "wrangler pages deployment tail --project-name cloudrest",
+
+    "worker:deploy": "wrangler deploy --config wrangler.worker.toml",
+    "worker:secret": "wrangler secret put DEEPSEEK_API_KEY",
+    "worker:tail": "wrangler tail"
+  },
+  "devDependencies": {
+    "wrangler": "^3.90.0"
+  }
+}

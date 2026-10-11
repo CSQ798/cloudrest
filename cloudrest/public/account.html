@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>登录 / 注册 · 云卷云舒</title>
+<meta name="description" content="注册一个账号，免费写五首。" />
+<meta name="theme-color" content="#f5f9ff" />
+<link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
+<link rel="stylesheet" href="/style.css" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3Crect%20width='32'%20height='32'%20rx='8'%20fill='%233d7ff0'/%3E%3Ctext%20x='16'%20y='23'%20font-size='19'%20text-anchor='middle'%20fill='%23EDEDEF'%20font-family='serif'%3E%E4%BA%91%3C/text%3E%3C/svg%3E" />
+</head>
+<body>
+<!-- 背景四层，与主页同一套（见 public/style.css 顶部说明） -->
+<div class="bg" aria-hidden="true">
+  <div class="bg-base"></div>
+  <div class="bg-grid"></div>
+  <div class="bg-noise"></div>
+  <div class="blob blob-1"></div>
+  <div class="blob blob-2"></div>
+  <div class="blob blob-3"></div>
+  <div class="blob blob-4"></div>
+</div>
+
+<header class="topbar">
+  <a class="brand-ink" href="/">云卷云舒</a>
+  <span class="brand-sub">写下你的场景，它自己挑体裁</span>
+</header>
+
+<p class="motto">
+  宠辱不惊，看庭前花开花落<span class="motto-sep">；</span>去留无意，望天上云卷云舒
+</p>
+
+<!-- 单独一页，不再做「卡在中间还要滚」的弹窗。
+     站长提的这两件事（登录、小启）都在这一页上，一屏之内。 -->
+<main class="page">
+  <a class="back" href="/">← 回到写诗</a>
+
+  <section class="card" data-spot>
+    <h1 class="card-title">登录 / 注册</h1>
+    <p class="card-sub">用邮箱注册，新账号免费 5 次</p>
+
+    <label for="auEmail">邮箱</label>
+    <input id="auEmail" type="email" autocomplete="email" placeholder="you@example.com" spellcheck="false" />
+    <label for="auPass">密码</label>
+    <input id="auPass" type="password" autocomplete="current-password" placeholder="至少 6 位" />
+
+    <p class="card-msg" id="auMsg"></p>
+
+    <div class="card-btns">
+      <button class="tb-btn primary" id="auLogin" type="button">登录</button>
+      <button class="tb-btn" id="auRegister" type="button">注册</button>
+    </div>
+
+    <p class="card-foot">
+      本站没有发信服务，所以不做邮箱验证 —— 邮箱只当账号名用。
+      忘记密码暂时只能由站长处理。
+    </p>
+  </section>
+
+  <section class="card" id="ask" data-spot>
+    <h1 class="card-title">小启</h1>
+    <p class="card-sub">写给想多写几首的人</p>
+    <p class="note-body">小站一人之力，每写一首都要向 AI 付费，故难对所有人无限开放。</p>
+    <p class="note-body">
+      想常用，来信说一句你打算写什么、为何想写 ——
+      <a href="mailto:1876148307@qq.com">1876148307@qq.com</a>，我多半愿意分你一把钥匙。
+    </p>
+    <div class="card-btns">
+      <a class="tb-btn primary" href="mailto:1876148307@qq.com">写信给站长</a>
+    </div>
+  </section>
+
+  <section class="card" id="who" data-spot hidden>
+    <h1 class="card-title">当前身份</h1>
+    <p class="card-sub" id="whoSub"></p>
+    <div class="card-btns">
+      <button class="tb-btn" id="auLogout" type="button">退出登录</button>
+      <button class="tb-btn ghost" id="auUnkey" type="button" hidden>取消密钥</button>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <p class="foot-main">
+    <span>诗由 AI 依景而作，非古人所作；格律据《钦定词谱》《平水韵》逐字校过。</span>
+    <span class="foot-meta">云卷云舒 © 2026</span>
+  </p>
+</footer>
+
+<script src="/fx.js" type="module"></script>
+<script src="/account-page.js" type="module"></script>
+</body>
+</html>

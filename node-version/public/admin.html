@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3Crect%20width='32'%20height='32'%20rx='8'%20fill='%233d7ff0'/%3E%3Ctext%20x='16'%20y='23'%20font-size='19'%20text-anchor='middle'%20fill='%23EDEDEF'%20font-family='serif'%3E%E4%BA%91%3C/text%3E%3C/svg%3E" />
+  <title>云卷云舒 · 站点管理</title>
+<meta name="robots" content="noindex" />
+<link rel="stylesheet" href="/style.css" />
+</head>
+<body class="admin">
+<!-- 背景四层，与主页同一套 -->
+<div class="bg" aria-hidden="true">
+  <div class="bg-base"></div>
+  <div class="bg-grid"></div>
+  <div class="bg-noise"></div>
+  <div class="blob blob-1"></div>
+  <div class="blob blob-3"></div>
+</div>
+
+<header class="topbar">
+  <a class="brand-ink" href="/">云卷云舒</a>
+  <span class="brand-sub">站点管理 · 备用页面</span>
+</header>
+
+<div class="admin-wrap">
+  <h1>兑换码与付款确认</h1>
+  <p class="card-sub">兑换码 · 付款确认</p>
+  <p class="admin-note">
+    界面上已经没有「买额度」入口了（站长要求只保留免费 5 次）。
+    这个页面留着备用：想单独给谁加几次，就在这里生成兑换码；
+    服务端的 /api/redeem 仍在，接回一个入口就能用。
+    它用站点密钥当口令（就是工具栏里那个），所以别把这个网址发出去。
+  </p>
+
+  <h2>一、口令</h2>
+  <div class="admin-row">
+    <input id="akey" type="password" placeholder="站点密钥" autocomplete="off" spellcheck="false" />
+    <button class="tb-btn primary" id="asave" type="button">记住</button>
+    <span class="admin-msg" id="amsg"></span>
+  </div>
+  <p class="admin-note">
+    口令只存在这台浏览器（localStorage），不会写进网址，也不会出现在服务器日志里。
+  </p>
+
+  <h2>二、待审的付款认领</h2>
+  <p class="admin-note">
+    个人微信收款码没有回调，所以到账只能你来核对：对着手机账单看时间与金额，
+    对上了就点「通过」，额度立刻到账。
+  </p>
+  <div class="admin-row">
+    <button class="tb-btn" id="arefresh" type="button">刷新列表</button>
+    <span class="admin-msg" id="cmsg"></span>
+  </div>
+  <div id="claims"></div>
+
+  <h2>三、兑换码</h2>
+  <p class="admin-note">
+    不想每次手动审批就用这个：先生成一批码，收到钱以后把码发给对方，
+    他自己在网页上兑换，立刻到账。
+  </p>
+  <div class="admin-row">
+    <label>条数 <input id="ncount" type="number" min="1" max="200" value="10" style="width:5em" /></label>
+    <label>每码次数 <input id="ncredits" type="number" min="1" max="1000" value="10" style="width:5em" /></label>
+    <label>备注 <input id="nnote" type="text" maxlength="60" placeholder="如：1 元档" class="wide" /></label>
+    <button class="tb-btn primary" id="agen" type="button">生成</button>
+  </div>
+  <div id="codes"></div>
+</div>
+
+<script src="/admin.js" type="module"></script>
+</body>
+</html>

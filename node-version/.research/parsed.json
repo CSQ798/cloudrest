@@ -1,0 +1,3163 @@
+[
+  {
+    "name": "忆江南",
+    "tune": "忆江南",
+    "desc": "单调二十七字，五句三平韵",
+    "author": "白居易",
+    "declared": 27,
+    "sum": 27,
+    "sentences": [
+      {
+        "text": "江南好",
+        "len": 3,
+        "tones": "平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "风景旧曾谙",
+        "len": 5,
+        "tones": "中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "日出江花红胜火",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "春来江水绿如蓝",
+        "len": 7,
+        "tones": "中平平仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "能不忆江南",
+        "len": 5,
+        "tones": "平仄仄平平",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "如梦令",
+    "tune": "如梦令",
+    "desc": "单调三十三字，七句五仄韵、一叠韵",
+    "author": "后唐庄宗",
+    "declared": 33,
+    "sum": 33,
+    "sentences": [
+      {
+        "text": "曾宴桃源深洞",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "一曲舞鸾歌凤",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "长记别伊时",
+        "len": 5,
+        "tones": "中仄仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "和泪出门相送",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "如梦",
+        "len": 2,
+        "tones": "中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "如梦",
+        "len": 2,
+        "tones": "中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "残月落花烟重",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "相见欢",
+    "tune": "相见欢",
+    "desc": "双调三十六字，前段三句三平韵，后段四句两仄韵、两平韵",
+    "author": "薛昭蕴",
+    "declared": 36,
+    "sum": 36,
+    "sentences": [
+      {
+        "text": "罗襦绣袂香红",
+        "len": 6,
+        "tones": "中平中仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "画堂中",
+        "len": 3,
+        "tones": "仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "细草平沙蕃马",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "小屏风",
+        "len": 3,
+        "tones": "仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "卷罗幕",
+        "len": 3,
+        "tones": "中中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "凭妆阁",
+        "len": 3,
+        "tones": "中中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "思无穷",
+        "len": 3,
+        "tones": "仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "暮雨轻烟魂断",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "隔帘栊",
+        "len": 3,
+        "tones": "仄平平",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "生查子",
+    "tune": "生查子",
+    "desc": "双调四十字，前后段各四句、两仄韵",
+    "author": "韩偓",
+    "declared": 40,
+    "sum": 40,
+    "sentences": [
+      {
+        "text": "侍女动妆奁",
+        "len": 5,
+        "tones": "中中中中中",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "故故惊人睡",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "那知本未眠",
+        "len": 5,
+        "tones": "中中仄中平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "背面偷垂泪",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "懒卸凤头钗",
+        "len": 5,
+        "tones": "中中中中平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "羞入鸳鸯被",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "时复见残灯",
+        "len": 5,
+        "tones": "中仄仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "和烟坠金穗",
+        "len": 5,
+        "tones": "中中中平仄",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "点绛唇",
+    "tune": "点绛唇",
+    "desc": "双调四十一字，前段四句三仄韵，后段五句四仄韵",
+    "author": "冯延巳",
+    "declared": 41,
+    "sum": 41,
+    "sentences": [
+      {
+        "text": "荫绿围红",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "飞琼家在桃源住",
+        "len": 7,
+        "tones": "中平中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "画桥当路",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "临水开朱户",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "柳径春深",
+        "len": 4,
+        "tones": "中仄中平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "行到关情处",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "颦不语",
+        "len": 3,
+        "tones": "中中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "意凭风絮",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "吹向郎边去",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "浣溪沙",
+    "tune": "浣溪沙",
+    "desc": "双调四十二字，前段三句三平韵，后段三句两平韵",
+    "author": "韩偓",
+    "declared": 42,
+    "sum": 42,
+    "sentences": [
+      {
+        "text": "宿醉离愁慢髻鬟",
+        "len": 7,
+        "tones": "中仄中平中仄平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "六铢衣薄惹轻寒",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "慵红闷翠掩青鸾",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "罗袜况兼金菡萏",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "雪肌仍是玉琅玕",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "骨香腰细更沈檀",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "卜算子",
+    "tune": "卜算子",
+    "desc": "双调四十四字，前后段各四句、两仄韵",
+    "author": "苏轼",
+    "declared": 44,
+    "sum": 44,
+    "sentences": [
+      {
+        "text": "缺月挂疏桐",
+        "len": 5,
+        "tones": "中中中中平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "漏断人初静",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "时见幽人独往来",
+        "len": 7,
+        "tones": "中仄平平中中中",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "缥缈孤鸿影",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "惊起却回头",
+        "len": 5,
+        "tones": "中中中中平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "有恨无人省",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "拣尽寒枝不肯栖",
+        "len": 7,
+        "tones": "中仄平平中中中",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "寂寞沙洲冷",
+        "len": 5,
+        "tones": "仄仄平平仄",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "菩萨蛮",
+    "tune": "菩萨蛮",
+    "desc": "双调四十四字，前后段各四句，两仄韵、两平韵",
+    "author": "李白",
+    "declared": 44,
+    "sum": 44,
+    "sentences": [
+      {
+        "text": "平林漠漠烟如织",
+        "len": 7,
+        "tones": "中平中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "寒山一带伤心碧",
+        "len": 7,
+        "tones": "中平中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "暝色入高楼",
+        "len": 5,
+        "tones": "中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "有人楼上愁",
+        "len": 5,
+        "tones": "中平中仄平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "玉阶空伫立",
+        "len": 5,
+        "tones": "中平平仄仄",
+        "rhyme": true,
+        "changed": true
+      },
+      {
+        "text": "宿鸟归飞急",
+        "len": 5,
+        "tones": "中仄中平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "何处是归程",
+        "len": 5,
+        "tones": "中仄仄平平",
+        "rhyme": true,
+        "changed": true
+      },
+      {
+        "text": "长亭更短亭",
+        "len": 5,
+        "tones": "中平中仄平",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "清平乐",
+    "tune": "清平乐",
+    "desc": "双调四十六字，前段四句四仄韵，后段四句三平韵",
+    "author": "李白",
+    "declared": 46,
+    "sum": 46,
+    "sentences": [
+      {
+        "text": "禁闱清夜",
+        "len": 4,
+        "tones": "中中中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "月探金窗罅",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "玉帐鸳鸯喷兰麝",
+        "len": 7,
+        "tones": "中仄中平平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "时落银灯香灺",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "女伴莫话孤眠",
+        "len": 6,
+        "tones": "中中中仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "六宫罗绮三千",
+        "len": 6,
+        "tones": "中中中仄中平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "一笑皆生百媚",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "宸游教在谁边",
+        "len": 6,
+        "tones": "中中中仄平平",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "西江月",
+    "tune": "西江月",
+    "desc": "双调五十字，前后段各四句，两平韵、一叶韵",
+    "author": "柳永",
+    "declared": 50,
+    "sum": 50,
+    "sentences": [
+      {
+        "text": "凤额绣帘高卷",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "兽镮朱户频摇",
+        "len": 6,
+        "tones": "中平中仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "两竿红日上花梢",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "春睡恹恹难觉",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "好梦枉随飞絮",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "閒愁浓胜香醪",
+        "len": 6,
+        "tones": "中平中仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "不成雨暮与云朝",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "又是韶光过了",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "八声甘州",
+    "tune": "八声甘州",
+    "desc": "双调五十二字，前后段各四句、四平韵",
+    "author": "杨无咎",
+    "declared": 52,
+    "sum": 52,
+    "sentences": [
+      {
+        "text": "穷阴急景暗推迁",
+        "len": 7,
+        "tones": "平平仄仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "减绿鬓",
+        "len": 3,
+        "tones": "仄仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "损朱颜",
+        "len": 3,
+        "tones": "仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "利名牵役几时閒",
+        "len": 7,
+        "tones": "仄平平仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "又还惊",
+        "len": 3,
+        "tones": "仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "一岁圆",
+        "len": 3,
+        "tones": "仄仄平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "劝君今夕不须眠",
+        "len": 7,
+        "tones": "仄平平仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "且慢慢",
+        "len": 3,
+        "tones": "仄仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "泛觥船",
+        "len": 3,
+        "tones": "仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "大家沈醉对芳筵",
+        "len": 7,
+        "tones": "仄平平仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "愿新年",
+        "len": 3,
+        "tones": "仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "胜旧年",
+        "len": 3,
+        "tones": "仄仄平",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "临江仙",
+    "tune": "临江仙",
+    "desc": "双调五十四字，前后段各四句、三平韵",
+    "author": "和凝",
+    "declared": 54,
+    "sum": 54,
+    "sentences": [
+      {
+        "text": "海棠香老春江晚",
+        "len": 7,
+        "tones": "中平中仄平平仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "小楼雾縠空濛",
+        "len": 6,
+        "tones": "中中中仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "翠鬟初出绣帘中",
+        "len": 7,
+        "tones": "仄平平仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "麝烟鸾佩惹蘋风",
+        "len": 7,
+        "tones": "仄平平仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "碾玉钗摇鸂鶒战",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "雪肌云鬓将融",
+        "len": 6,
+        "tones": "仄平平仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "含情遥指碧波东",
+        "len": 7,
+        "tones": "平平中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "越王台殿蓼花红",
+        "len": 7,
+        "tones": "中平平仄仄平平",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "鹧鸪天",
+    "tune": "鹧鸪天",
+    "desc": "双调五十五字，前段四句三平韵，后段五句三平韵",
+    "author": "晏几道",
+    "declared": 55,
+    "sum": 55,
+    "sentences": [
+      {
+        "text": "彩袖殷勤捧玉钟",
+        "len": 7,
+        "tones": "中中中中中中平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "当年拌却醉颜红",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "舞低杨柳楼心月",
+        "len": 7,
+        "tones": "中平中仄中平仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "歌尽桃花扇影风",
+        "len": 7,
+        "tones": "中仄平平中仄平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "从别后",
+        "len": 3,
+        "tones": "中中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "忆相逢",
+        "len": 3,
+        "tones": "仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "几回魂梦与君同",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "今宵剩把银釭照",
+        "len": 7,
+        "tones": "中平中仄平平仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "犹恐相逢是梦中",
+        "len": 7,
+        "tones": "中仄平平中仄平",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "玉楼春",
+    "tune": "玉楼春",
+    "desc": "双调五十六字，前后段各四句、三仄韵",
+    "author": "顾夐",
+    "declared": 56,
+    "sum": 56,
+    "sentences": [
+      {
+        "text": "拂水双飞来去燕",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "曲槛小屏山六扇",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "春愁凝思结眉心",
+        "len": 7,
+        "tones": "中平平仄仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "绿绮懒调红锦荐",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "话别多情声欲战",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "玉箸痕留红粉面",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "镇长独立到黄昏",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "却怕良宵频梦见",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "虞美人",
+    "tune": "虞美人",
+    "desc": "双调五十六字，前后段各四句，两仄韵、两平韵",
+    "author": "（南唐）李煜",
+    "declared": 56,
+    "sum": 56,
+    "sentences": [
+      {
+        "text": "风回小院庭芜绿",
+        "len": 7,
+        "tones": "中平中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "柳眼春相续",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "凭阑半日独无言",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "依旧竹声新月",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "似当年",
+        "len": 3,
+        "tones": "仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "笙歌未散尊罍在",
+        "len": 7,
+        "tones": "中平仄仄平平仄",
+        "rhyme": true,
+        "changed": true
+      },
+      {
+        "text": "池面冰初解",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "烛明香暗画阑深",
+        "len": 7,
+        "tones": "仄平平仄仄平平",
+        "rhyme": true,
+        "changed": true
+      },
+      {
+        "text": "满鬓清霜残雪",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "思难禁",
+        "len": 3,
+        "tones": "仄平平",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "鹊桥仙",
+    "tune": "鹊桥仙",
+    "desc": "双调五十六字，前后段各五句、两仄韵",
+    "author": "欧阳修",
+    "declared": 56,
+    "sum": 56,
+    "sentences": [
+      {
+        "text": "月波清霁",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "烟容明淡",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "灵汉旧期还至",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "鹊迎桥路接天津",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "映夹岸",
+        "len": 3,
+        "tones": "中中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "星榆点缀",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "云屏未卷",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "仙鸡催晓",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "肠断去年情味",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "多应天意不教长",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "恁恐把",
+        "len": 3,
+        "tones": "中中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "欢娱容易",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "踏莎行",
+    "tune": "踏莎行",
+    "desc": "双调五十八字，前后段各五句、三仄韵",
+    "author": "晏殊",
+    "declared": 58,
+    "sum": 58,
+    "sentences": [
+      {
+        "text": "细草愁烟",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "幽花怯露",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "凭阑总是消魂处",
+        "len": 7,
+        "tones": "中平中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "日高深院静无人",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "时时海燕双飞去",
+        "len": 7,
+        "tones": "中平中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "带缓罗衣",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "香残蕙炷",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "天长不禁迢迢路",
+        "len": 7,
+        "tones": "中平中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "垂杨只解惹春风",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "何曾系得行人住",
+        "len": 7,
+        "tones": "中平中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "一剪梅",
+    "tune": "一剪梅",
+    "desc": "双调六十字，前后段各六句、三平韵",
+    "author": "周邦彦",
+    "declared": 60,
+    "sum": 60,
+    "sentences": [
+      {
+        "text": "一剪梅花万样娇",
+        "len": 7,
+        "tones": "中仄平平中仄平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "斜插疏枝",
+        "len": 4,
+        "tones": "中中中中",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "略点梅梢",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "轻盈微笑舞低回",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "何事尊前",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "拍手相招",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "夜渐寒深酒渐消",
+        "len": 7,
+        "tones": "中仄中平中仄平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "袖里时闻",
+        "len": 4,
+        "tones": "中中平中",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "玉钏轻敲",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "城头谁恁促残更",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "银漏何如",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "且慢明朝",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "蝶恋花",
+    "tune": "蝶恋花",
+    "desc": "双调六十字，前后段各五句、四仄韵",
+    "author": "冯延巳",
+    "declared": 60,
+    "sum": 60,
+    "sentences": [
+      {
+        "text": "六曲阑干偎碧树",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "杨柳风轻",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "展尽黄金缕",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "谁把钿筝移玉柱",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "穿帘海燕双飞去",
+        "len": 7,
+        "tones": "中平中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "满眼游丝兼落絮",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "红杏开时",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "一霎清明雨",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "浓睡觉来莺乱语",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "惊残好梦无寻处",
+        "len": 7,
+        "tones": "中平中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "定风波",
+    "tune": "定风波",
+    "desc": "双调六十二字，前段五句三平韵、两仄韵，后段六句四仄韵、两平韵",
+    "author": "欧阳炯",
+    "declared": 62,
+    "sum": 62,
+    "sentences": [
+      {
+        "text": "暖日閒窗映碧纱",
+        "len": 7,
+        "tones": "中仄平平仄仄平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "小池春水浸明霞",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "数树海棠红欲尽",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "争忍",
+        "len": 2,
+        "tones": "中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "玉闺深掩过年华",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "独凭绣床方寸乱",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": true,
+        "changed": true
+      },
+      {
+        "text": "肠断",
+        "len": 2,
+        "tones": "中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "泪珠穿破脸边花",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "邻舍女郎相借问",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": true,
+        "changed": true
+      },
+      {
+        "text": "音信",
+        "len": 2,
+        "tones": "中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "教人羞道未还家",
+        "len": 7,
+        "tones": "中平中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "渔家傲",
+    "tune": "渔家傲",
+    "desc": "双调六十二字，前后段各五句、五仄韵",
+    "author": "晏殊",
+    "declared": 62,
+    "sum": 62,
+    "sentences": [
+      {
+        "text": "画鼓声中昏又晓",
+        "len": 7,
+        "tones": "中中中中平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "时光只解催人老",
+        "len": 7,
+        "tones": "中平中仄中平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "求得浅欢风日好",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "齐揭调",
+        "len": 3,
+        "tones": "平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "神仙一曲渔家傲",
+        "len": 7,
+        "tones": "中中中中平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "绿水悠悠天杳杳",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "浮生岂得长年少",
+        "len": 7,
+        "tones": "中平中中平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "莫惜醉来开口笑",
+        "len": 7,
+        "tones": "中仄中平平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "须信道",
+        "len": 3,
+        "tones": "中中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "人间万事何时了",
+        "len": 7,
+        "tones": "中平中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "青玉案",
+    "tune": "青玉案",
+    "desc": "双调六十七字，前后段各六句、五仄韵",
+    "author": "贺铸",
+    "declared": 67,
+    "sum": 67,
+    "sentences": [
+      {
+        "text": "凌波不过横塘路",
+        "len": 7,
+        "tones": "中平中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "但目送",
+        "len": 3,
+        "tones": "仄中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "芳尘去",
+        "len": 3,
+        "tones": "平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "锦瑟年华谁与度",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "月楼花院",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "绮窗朱户",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "惟有春知处",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "碧云冉冉蘅皋暮",
+        "len": 7,
+        "tones": "中平中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "彩笔空题断肠句",
+        "len": 7,
+        "tones": "中仄平平仄平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "试问閒愁知几许",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "一川烟草",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "满城风絮",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "梅子黄时雨",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "望海潮",
+    "tune": "望海潮",
+    "desc": "双调八十四字，前段九句五仄韵，后段八句五仄韵",
+    "author": "柳永",
+    "declared": 84,
+    "sum": 84,
+    "sentences": [
+      {
+        "text": "閒窗漏永",
+        "len": 4,
+        "tones": "平平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "月冷霜华堕",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "悄悄下帘幕",
+        "len": 5,
+        "tones": "中仄仄平中",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "残灯火",
+        "len": 3,
+        "tones": "平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "再三思往事",
+        "len": 5,
+        "tones": "仄中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "离魂乱",
+        "len": 3,
+        "tones": "平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "愁肠锁",
+        "len": 3,
+        "tones": "平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "无语沈吟坐",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "好天好景",
+        "len": 4,
+        "tones": "仄平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "未省展眉则个",
+        "len": 6,
+        "tones": "中仄仄平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "从前早是多成破",
+        "len": 7,
+        "tones": "平平仄仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "何况经岁月",
+        "len": 5,
+        "tones": "中中平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "相抛亸",
+        "len": 3,
+        "tones": "平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "假使重相见",
+        "len": 5,
+        "tones": "仄仄平平仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "还得似",
+        "len": 3,
+        "tones": "平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "当初么",
+        "len": 3,
+        "tones": "平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "悔恨无计那",
+        "len": 5,
+        "tones": "仄仄平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "迢迢良夜",
+        "len": 4,
+        "tones": "中平平仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "自家只恁摧挫",
+        "len": 6,
+        "tones": "仄中仄中平仄",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "满江红",
+    "tune": "满江红",
+    "desc": "双调九十三字，前段八句四仄韵，后段十句五仄韵",
+    "author": "柳永",
+    "declared": 93,
+    "sum": 93,
+    "sentences": [
+      {
+        "text": "暮雨初收",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "长川静",
+        "len": 3,
+        "tones": "中中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "征帆夜落",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "临岛屿",
+        "len": 3,
+        "tones": "中中中",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "蓼烟疏淡",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "苇风萧索",
+        "len": 4,
+        "tones": "中平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "几许渔人横短艇",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "尽将灯火归村落",
+        "len": 7,
+        "tones": "中平中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "遣行客",
+        "len": 3,
+        "tones": "仄中中",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "当此念回程",
+        "len": 5,
+        "tones": "中仄仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "伤漂泊",
+        "len": 3,
+        "tones": "平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "桐江好",
+        "len": 3,
+        "tones": "平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "烟漠漠",
+        "len": 3,
+        "tones": "平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "波似染",
+        "len": 3,
+        "tones": "平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "山如削",
+        "len": 3,
+        "tones": "平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "绕严陵滩畔",
+        "len": 5,
+        "tones": "中中中中中",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "鹭飞鱼跃",
+        "len": 4,
+        "tones": "中中平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "游宦区区成底事",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "平生况有云泉约",
+        "len": 7,
+        "tones": "中平中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "归去来",
+        "len": 3,
+        "tones": "中中中",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "一曲仲宣吟",
+        "len": 5,
+        "tones": "中仄仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "从军乐",
+        "len": 3,
+        "tones": "平平仄",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "水龙吟",
+    "tune": "水龙吟",
+    "desc": "双调九十四字，前段十句四仄韵，后段八句四仄韵",
+    "author": "宋徽宗",
+    "declared": 94,
+    "sum": 94,
+    "sentences": [
+      {
+        "text": "望五云多处",
+        "len": 5,
+        "tones": "仄仄平平仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "探春开阆苑",
+        "len": 5,
+        "tones": "仄平平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "别就瑶岛",
+        "len": 4,
+        "tones": "仄仄平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "正梅雪韵清",
+        "len": 5,
+        "tones": "仄平仄仄平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "桂月光皎",
+        "len": 4,
+        "tones": "仄仄平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "凤帐龙帘萦嫩风",
+        "len": 7,
+        "tones": "仄仄平平平仄平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "御座深",
+        "len": 3,
+        "tones": "仄仄平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "翠金间绕",
+        "len": 4,
+        "tones": "仄平仄仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "半天中",
+        "len": 3,
+        "tones": "仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "香泛千花",
+        "len": 4,
+        "tones": "平仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "灯挂百宝",
+        "len": 4,
+        "tones": "平仄仄仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "圣时观风重腊",
+        "len": 6,
+        "tones": "仄平平平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "有箫鼓沸空",
+        "len": 5,
+        "tones": "仄平仄仄平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "锦绣匝道",
+        "len": 4,
+        "tones": "仄仄仄仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "竞呼卢气贯调欢笑",
+        "len": 8,
+        "tones": "仄平平仄仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "暗里金钱掷下",
+        "len": 6,
+        "tones": "仄仄平平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "来侍宴",
+        "len": 3,
+        "tones": "平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "歌太平睿藻",
+        "len": 5,
+        "tones": "平仄平仄仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "愿年年此际",
+        "len": 5,
+        "tones": "仄平平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "迎春不老",
+        "len": 4,
+        "tones": "平平仄仄",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "水调歌头",
+    "tune": "水调歌头",
+    "desc": "双调九十五字，前段九句四平韵，后段十句四平韵",
+    "author": "毛滂",
+    "declared": 95,
+    "sum": 95,
+    "sentences": [
+      {
+        "text": "九金增宋重",
+        "len": 5,
+        "tones": "中中中中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "八玉变秦馀",
+        "len": 5,
+        "tones": "中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "千年清浸",
+        "len": 4,
+        "tones": "中平平仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "先净河洛出图书",
+        "len": 7,
+        "tones": "中中平仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "一段升平光景",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "不但五星循轨",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "万点共连珠",
+        "len": 5,
+        "tones": "中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "垂衣本神圣",
+        "len": 5,
+        "tones": "中中中平仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "补衮妙工夫",
+        "len": 5,
+        "tones": "中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "朝元去",
+        "len": 3,
+        "tones": "中中中",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "锵环佩",
+        "len": 3,
+        "tones": "中中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "冷云衢",
+        "len": 3,
+        "tones": "仄中平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "芝房雅奏",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "仪凤矫首听笙竽",
+        "len": 7,
+        "tones": "中仄中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "天近黄麾仗晓",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "春早红鸾扇暖",
+        "len": 6,
+        "tones": "中仄中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "迟日上金铺",
+        "len": 5,
+        "tones": "中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "万岁南山色",
+        "len": 5,
+        "tones": "中仄中平仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "不老对唐虞",
+        "len": 5,
+        "tones": "中仄仄平平",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "扬州慢",
+    "tune": "扬州慢",
+    "desc": "双调九十九字，前段十句四仄韵，后段十句六仄韵",
+    "author": "周邦彦",
+    "declared": 99,
+    "sum": 99,
+    "sentences": [
+      {
+        "text": "暗柳啼鸦",
+        "len": 4,
+        "tones": "仄仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "单衣伫立",
+        "len": 4,
+        "tones": "平平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "小帘朱户",
+        "len": 4,
+        "tones": "仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "桐花半亩",
+        "len": 4,
+        "tones": "平平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "静锁一庭愁雨",
+        "len": 6,
+        "tones": "中仄中平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "洒空阶",
+        "len": 3,
+        "tones": "仄中平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "更阑未休",
+        "len": 4,
+        "tones": "中中中中",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "故人剪烛西窗语",
+        "len": 7,
+        "tones": "中平中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "似楚江暝宿",
+        "len": 5,
+        "tones": "仄中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "风灯零乱",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "少年羁旅",
+        "len": 4,
+        "tones": "仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "迟暮",
+        "len": 2,
+        "tones": "平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "嬉游处",
+        "len": 3,
+        "tones": "平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "正店舍无烟",
+        "len": 5,
+        "tones": "仄中仄中中",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "禁城百五",
+        "len": 4,
+        "tones": "仄平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "旗亭唤酒",
+        "len": 4,
+        "tones": "平平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "付与高阳俦侣",
+        "len": 6,
+        "tones": "仄仄中平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "想东园",
+        "len": 3,
+        "tones": "仄中平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "桃李自春",
+        "len": 4,
+        "tones": "中仄中平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "小唇秀靥今在否",
+        "len": 7,
+        "tones": "中中仄仄平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "到归时",
+        "len": 3,
+        "tones": "仄中平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "定有残英",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "待客携尊俎",
+        "len": 5,
+        "tones": "仄中平中仄",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "念奴娇",
+    "tune": "念奴娇",
+    "desc": "双调一百字，前后段各十句、四仄韵",
+    "author": "苏轼",
+    "declared": 100,
+    "sum": 100,
+    "sentences": [
+      {
+        "text": "凭空眺远",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "见长空万里",
+        "len": 5,
+        "tones": "仄中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "云无留迹",
+        "len": 4,
+        "tones": "中中平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "桂魄飞来光射处",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "冷浸一天秋碧",
+        "len": 6,
+        "tones": "中仄中平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "玉宇琼楼",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "乘鸾来去",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "人在清凉国",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "江山如画",
+        "len": 4,
+        "tones": "中平平仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "望中烟树历历",
+        "len": 6,
+        "tones": "仄平平仄中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "我醉拍手狂歌",
+        "len": 6,
+        "tones": "中仄中仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "举杯邀月",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "对影成三客",
+        "len": 5,
+        "tones": "中中平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "起舞徘徊风露下",
+        "len": 7,
+        "tones": "中仄中平平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "今夕不知何夕",
+        "len": 6,
+        "tones": "中仄中平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "便欲乘风",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "翻然归去",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "何用骑鹏翼",
+        "len": 5,
+        "tones": "中仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "水晶宫里",
+        "len": 4,
+        "tones": "中平平仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "一声吹断横笛",
+        "len": 6,
+        "tones": "中平平仄平仄",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "永遇乐",
+    "tune": "永遇乐",
+    "desc": "双调一百一字，前段十句四仄韵，后段十句七仄韵",
+    "author": "张先",
+    "declared": 101,
+    "sum": 101,
+    "sentences": [
+      {
+        "text": "野绿连空",
+        "len": 4,
+        "tones": "仄仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "天青垂水",
+        "len": 4,
+        "tones": "平平平仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "素色溶漾都净",
+        "len": 6,
+        "tones": "仄仄平仄平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "柔柳摇摇",
+        "len": 4,
+        "tones": "平仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "坠轻絮无影",
+        "len": 5,
+        "tones": "仄平仄平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "汀洲日落人归",
+        "len": 6,
+        "tones": "平平仄仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "修巾薄袂",
+        "len": 4,
+        "tones": "平平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "撷香拾翠相竞",
+        "len": 6,
+        "tones": "仄平仄仄平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "如解凌波",
+        "len": 4,
+        "tones": "平仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "泊烟渚春暝",
+        "len": 5,
+        "tones": "仄平仄平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "䌽绦朱索新整",
+        "len": 6,
+        "tones": "仄平平仄平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "宿绣屏",
+        "len": 3,
+        "tones": "仄仄平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "画船风定",
+        "len": 4,
+        "tones": "仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "金凤响双槽",
+        "len": 5,
+        "tones": "平仄仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "弹出古今幽思谁省",
+        "len": 8,
+        "tones": "平仄仄平平仄平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "玉盘大小乱珠迸",
+        "len": 7,
+        "tones": "仄平仄仄仄平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "酒上妆面",
+        "len": 4,
+        "tones": "仄仄平仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "花艳媚相并",
+        "len": 5,
+        "tones": "平仄仄平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "重听",
+        "len": 2,
+        "tones": "平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "尽汉妃一曲",
+        "len": 5,
+        "tones": "仄仄平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "江空月静",
+        "len": 4,
+        "tones": "平平仄仄",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "雨霖铃",
+    "tune": "雨霖铃",
+    "desc": "双调一百三字，前段十句五仄韵，后段九句五仄韵",
+    "author": "柳永",
+    "declared": 103,
+    "sum": 103,
+    "sentences": [
+      {
+        "text": "寒蝉凄切",
+        "len": 4,
+        "tones": "平平中仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "对长亭晚",
+        "len": 4,
+        "tones": "仄平平仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "骤雨初歇",
+        "len": 4,
+        "tones": "仄仄平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "都门帐饮无绪",
+        "len": 6,
+        "tones": "平平中中中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "方留恋处",
+        "len": 4,
+        "tones": "平平仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "兰舟催发",
+        "len": 4,
+        "tones": "平平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "执手相看泪眼",
+        "len": 6,
+        "tones": "仄仄平平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "竟无语凝咽",
+        "len": 5,
+        "tones": "仄平中平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "念去去",
+        "len": 3,
+        "tones": "仄仄中",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "千里烟波",
+        "len": 4,
+        "tones": "平仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "暮霭沈沈楚天阔",
+        "len": 7,
+        "tones": "仄仄平平仄平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "多情自古伤离别",
+        "len": 7,
+        "tones": "中平仄仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "更那堪",
+        "len": 3,
+        "tones": "仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "冷落清秋节",
+        "len": 5,
+        "tones": "仄仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "今宵酒醒何处",
+        "len": 6,
+        "tones": "中平仄中中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "杨柳岸",
+        "len": 3,
+        "tones": "中仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "晓风残月",
+        "len": 4,
+        "tones": "仄平平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "此去经年",
+        "len": 4,
+        "tones": "仄仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "应是良辰",
+        "len": 4,
+        "tones": "平仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "好景虚设",
+        "len": 4,
+        "tones": "仄中平仄",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "便纵有",
+        "len": 3,
+        "tones": "仄仄仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "千种风情",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "更与何人说",
+        "len": 5,
+        "tones": "仄仄平平仄",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  },
+  {
+    "name": "沁园春",
+    "tune": "沁园春",
+    "desc": "双调一百十四字，前段十三句四平韵，后段十二句五平韵",
+    "author": "苏轼",
+    "declared": 114,
+    "sum": 114,
+    "sentences": [
+      {
+        "text": "孤馆灯青",
+        "len": 4,
+        "tones": "中中平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "野店鸡号",
+        "len": 4,
+        "tones": "中中中中",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "旅枕梦残",
+        "len": 4,
+        "tones": "中中中平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "渐月华收练",
+        "len": 5,
+        "tones": "仄中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "晨霜耿耿",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "云山摛锦",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "朝露漙漙",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "世路无穷",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "劳生有限",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "似此区区长鲜欢",
+        "len": 7,
+        "tones": "中仄平平中仄平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "微吟罢",
+        "len": 3,
+        "tones": "中平仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "凭征鞍无语",
+        "len": 5,
+        "tones": "中中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "往事千端",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "当时共客长安",
+        "len": 6,
+        "tones": "中平中仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "似二陆",
+        "len": 3,
+        "tones": "中中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "初来俱少年",
+        "len": 5,
+        "tones": "中平中仄平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "有笔头千字",
+        "len": 5,
+        "tones": "仄中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "胸中万卷",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "致君尧舜",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "此事何难",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "用舍由时",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "行藏在我",
+        "len": 4,
+        "tones": "中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "袖手何妨閒处看",
+        "len": 7,
+        "tones": "中仄平平中仄平",
+        "rhyme": true,
+        "changed": false
+      },
+      {
+        "text": "身长健",
+        "len": 3,
+        "tones": "中中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "但优游卒岁",
+        "len": 5,
+        "tones": "仄中平中仄",
+        "rhyme": false,
+        "changed": false
+      },
+      {
+        "text": "且斗尊前",
+        "len": 4,
+        "tones": "中仄平平",
+        "rhyme": true,
+        "changed": false
+      }
+    ],
+    "okTotal": true,
+    "okAlign": true,
+    "errors": []
+  }
+]

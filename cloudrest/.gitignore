@@ -1,0 +1,16 @@
+# 本地开发用的密钥文件（含真 key，绝不能提交）
+.dev.vars
+
+# 依赖
+node_modules/
+.wrangler/
+
+# 本地数据库（node:sqlite 落盘的账号与额度数据，含用户邮箱与口令散列）
+.local-data/
+
+# 构建产物：拖拽上传用的文件夹与 zip（由 build-dashboard.mjs 现场生成）
+dist-upload/
+cloudrest-拖拽上传.zip
+
+# 别把开发过程中的临时文件带上
+*.log
